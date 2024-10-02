@@ -2,7 +2,7 @@
 <html>
 <body>
 
-  <h1>RAG-based Local Language Model (LLM) Project</h1>
+  <h1>RAG-model-based-of-LocalGPT</h1>
 
   <h2>Overview</h2>
 
